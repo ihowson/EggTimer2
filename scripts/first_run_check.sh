@@ -4,13 +4,13 @@
 # -----------------------------------------
 
 #First run check
-if [ ! -e "$HOME/Library/Application Support/Alfred 2/Workflow Data/carlosnz.eggtimer2/version" ]; then
+if [ ! -e "$HOME/Library/Application Support/Alfred 3/Workflow Data/carlosnz.eggtimer2/version" ]; then
 	./scripts/first_install.sh
 	exit
 fi
 
 
-ver=$(cat "$HOME/Library/Application Support/Alfred 2/Workflow Data/carlosnz.eggtimer2/version")
+ver=$(cat "$HOME/Library/Application Support/Alfred 3/Workflow Data/carlosnz.eggtimer2/version")
 if [ $ver -lt 205 ]; then
 	./scripts/first_install.sh
 fi

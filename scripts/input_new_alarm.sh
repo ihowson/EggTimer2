@@ -7,8 +7,8 @@
 source ./scripts/includes.sh
 
 #Working directories
-EGGPREFS="$HOME/Library/Application Support/Alfred 2/Workflow Data/carlosnz.eggtimer2"
-EGGWD="$HOME/Library/Caches/com.runningwithcrayons.Alfred-2/Workflow Data/carlosnz.eggtimer2"
+EGGPREFS="$HOME/Library/Application Support/Alfred 3/Workflow Data/carlosnz.eggtimer2"
+EGGWD="$HOME/Library/Caches/com.runningwithcrayons.Alfred-3/Workflow Data/carlosnz.eggtimer2"
 
 boilerplate='<?xml version="1.0"?>
 <items>

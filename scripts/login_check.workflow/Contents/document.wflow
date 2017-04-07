@@ -64,7 +64,7 @@
 # by Carl Smith (@CarlosNZ)
 # -----------------------------------------
 
-eggwd=$(cat "$HOME/Library/Application Support/Alfred 2/Workflow Data/carlosnz.eggtimer2/eggwd.txt")
+eggwd=$(cat "$HOME/Library/Application Support/Alfred 3/Workflow Data/carlosnz.eggtimer2/eggwd.txt")
 
 cd "$eggwd" &amp;&amp; "$eggwd/scripts/login_script.sh" &amp;</string>
 					<key>CheckedForUserDefaultShell</key>
