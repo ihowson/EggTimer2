@@ -1,5 +1,11 @@
 # EggTimer2
 
+### Installation
+
+1. download zip of repo
+2. unzip the folder
+3. add folder to your `Alfred.alfredpreferences/workflows/` (you can find this folder by going to Alfred Preferences > "Advanced" tab > "Syncing" header > "Reveal in Finder" button )
+
 ### Basic Usage
 
 The default keyword to use in Alfred is **timer**. In Alfred, set a timer with the following construction:
